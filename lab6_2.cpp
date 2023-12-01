@@ -24,8 +24,8 @@ double findYComponent(double l1,double l2,double a1,double a2){
 }
 
 double pythagoras(double xcomp1,double ycomp1){
-    double z = sqrt(pow(xcomp1,2)+pow(ycomp1,2)); 
-    return z;
+    double d = sqrt(pow(xcomp1,2)+pow(ycomp1,2)); 
+    return d;
 }
 
 double showResult(double x,double y){
