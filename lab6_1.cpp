@@ -5,7 +5,7 @@ int main(){
     int num=1, Even=0, Odd=0;
     while (num != 0)
     {
-        cout << "Enter an integer: ";
+        cout << "Enter an integer:: ";
         cin >> num;
 
         if (num %2 == 0)
